@@ -1,4 +1,4 @@
-v.0.69.1
+v.0.69.2
 * New emote(s): blobcheer
 * New animated emote(s): nodnods, bongocatlove, run_pengu, helizard, foxpats, wigglepidgeon
 * "Peep" has been removed
