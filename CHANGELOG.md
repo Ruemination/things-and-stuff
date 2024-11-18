@@ -1,3 +1,7 @@
+v.0.69.4
+* New emote(s): wfelroina, wfyibbles, teabag
+* Fixed a bug with bearstab
+
 v.0.69.3
 * New emote(s): peenus
 * New animated emote(s): bearrage, bearwave, rue_wall
