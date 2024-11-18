@@ -1,3 +1,8 @@
+v.0.69.3
+* New emote(s): peenus
+* New animated emote(s): bearrage, bearwave, rue_wall
+* All winterfur emotes have been added to the dropdown options menu
+
 v.0.69.2
 * New emote(s): blobcheer
 * New animated emote(s): nodnods, bongocatlove, run_pengu, helizard, foxpats, wigglepidgeon
