@@ -1,4 +1,7 @@
 v.0.69.4
+* New emote(s): wfowo, wfsalute
+
+v.0.69.4
 * New emote(s): wfelroina, wfyibbles, teabag
 * Fixed a bug with bearstab
 
