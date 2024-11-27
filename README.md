@@ -6,4 +6,4 @@ Install guide:
 * Download the latest zip file by clicking on it then clicking the download icon to the right, titled download raw file
 * Navigate to ...World of Warcraft\\_classic_\\Interface\\addons
 * Extract the contents of the .zip into said folder (that's to say, copy over the folder called TwitchEmotes)
-* Enable addon in game
+* Enable addon in game (it's called **Twitch Emotes** in the addons list!!
