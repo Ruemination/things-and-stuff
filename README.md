@@ -1,4 +1,4 @@
-IMPORTANT! Now that the addon has been renamed to WinterfurEmotes, don't forget to remove the old folder TwitchEmotes when updating or there might be issues
+**IMPORTANT! Now that the addon has been renamed to WinterfurEmotes, don't forget to remove the old folder TwitchEmotes when updating or there might be issues**
 
 Just an edit of the addon Twitch Emotes v2 by ren9790 for personal use
 
