@@ -1,3 +1,5 @@
+IMPORTANT! Now that the addon has been renamed to WinterfurEmotes, don't forget to remove the old folder TwitchEmotes when updating or there might be issues
+
 Just an edit of the addon Twitch Emotes v2 by ren9790 for personal use
 
 If you want only Winterfur emotes download the one just saying Winterfur Emotes, if you also want Twitch Emotes choose Winterfur + Twitch Emotes
