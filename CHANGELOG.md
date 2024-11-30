@@ -1,4 +1,10 @@
-v.0.69.4
+v.1.0.1(twitch ver only)
+* Removed "LMAO"
+
+v.1.0.0
+* Literally just changed the name of the addon
+
+v.0.69.5
 * New emote(s): wfowo, wfsalute
 
 v.0.69.4
