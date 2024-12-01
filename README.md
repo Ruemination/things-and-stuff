@@ -1,4 +1,4 @@
-**Download the stable release. In game, this version is referred to as Twitch Emotes. The reason is that the one called Winterfur Emotes for some reason breaks animated emotes and I'm very silly. Even if it's called Twitch Emotes, you can download the version that only has Winterfur Emotes if you want**
+**In game, this addon is referred to as Twitch Emotes. Even if it's called Twitch Emotes, you can download the version that only has Winterfur Emotes if you want**
 
 Just an edit of the addon Twitch Emotes v2 by ren9790 for personal use
 
