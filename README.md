@@ -6,7 +6,7 @@ If you want only Winterfur emotes download the one just saying Winterfur Emotes,
 
 Install guide:
 * Choose if you want only Winterfur emotes or Winterfur + Twitch emotes by either clicking on **STABLE RELEASE: Winterfur Emotes v.x.y.z**" for Winterfur only or "**STABLE RELEASE: Winterfur + Twitch Emotes v.x.y.z**" for Winterfur + Twitch
-* After clickiing on the corresponding version, download the zip file by clicking on the button titled RAW
+* After clicking on the corresponding version, download the zip file by clicking on the button titled RAW
 * Navigate to the addons folder of your wow isntallation. If you are unsure where this is, you can click the gear icon next to Play in battlenet and then hit "Show in Explorer" ...World of Warcraft\\_classic_\\Interface\\addons
 * Extract the contents of the .zip into said folder (that's to say, copy over the folder called TwitchEmotes)
 * Enable addon in game
