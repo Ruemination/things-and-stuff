@@ -1,3 +1,7 @@
+v.0.7.0
+* Fixed a few different bugs relating to the dropdown list
+* Renamed the winterfur lists, thereby also fixing an issue making it so that not all emotes were being displayed in the dropdown list
+
 v.0.69.6
 * Added emotes: blushies, blushthink, bearcave, blobtrash, nekojail, huggies
 * Fixed an issue with the emote winterfurlogo
