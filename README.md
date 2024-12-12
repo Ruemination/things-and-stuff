@@ -10,3 +10,6 @@ Install guide:
 * Navigate to the addons folder of your wow installation. If you are unsure where this is, you can click the gear icon next to Play in battlenet and then hit "Show in Explorer" ...World of Warcraft\\_classic_\\Interface\\addons
 * Extract the contents of the .zip into said folder (that's to say, copy over the folder called TwitchEmotes)
 * Enable addon in game
+
+Update guide:
+* Same as install, but delete the old version from \addons\ before extracting the new .zip
