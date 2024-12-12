@@ -1,3 +1,10 @@
+v.0.7.3
+* Removed kiss
+* Renamed panic to wfpanic
+
+v.0.7.2
+* Renamed D: to twD:
+
 v.0.7.1
 * Removed LMAO (reason: it's ugly and annoying)
 
