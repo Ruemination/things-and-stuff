@@ -1,3 +1,6 @@
+v.0.7.1
+* Panic has been renamed to wfpanic
+
 v.0.7.0
 * Removed all the unnecessary emote files that aren't in use
 * Pruned the minimap dropdown menu
