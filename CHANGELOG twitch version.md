@@ -1,3 +1,6 @@
+v.0.7.4
+* New emote(s): elstare, elglow
+
 v.0.7.3
 * Removed kiss
 * Renamed panic to wfpanic
