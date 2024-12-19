@@ -1,3 +1,6 @@
+v.0.7.4
+* New emote(s): elstare, elglow
+
 v.0.7.1
 * Panic has been renamed to wfpanic
 
