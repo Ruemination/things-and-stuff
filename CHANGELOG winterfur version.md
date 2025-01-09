@@ -1,3 +1,6 @@
+v.0.7.5
+* Renamed teabag to wfteabag
+
 v.0.7.4
 * New emote(s): elstare, elglow
 
