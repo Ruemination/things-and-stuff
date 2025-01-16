@@ -5,6 +5,7 @@ Just an edit of the addon Twitch Emotes v2 by ren9790 for personal use
 If you want only Winterfur emotes download the one just saying Winterfur Emotes, if you also want Twitch Emotes choose Winterfur + Twitch Emotes
 
 [Install Winterfur + Twitch emotes on CurseForge](https://www.curseforge.com/wow/addons/winterfur-twitch-emotes)
+
 [Install Winterfur emotes on CurseForge](https://www.curseforge.com/wow/addons/winterfur-emotes)
 
 Manual install guide:
